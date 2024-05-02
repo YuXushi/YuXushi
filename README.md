@@ -9,10 +9,3 @@ I like reading WebNovels <br>
 Animes, Manhwa, Manga (Shohen fan) and yadda yadda, the usual stuff, like a weeb <br>
 Tried to write something once, but failed and didn't get more inspirations <br>
 i guess you call that volatile inspiration? <i>Shrugs</i> not that it matters <br>
-
-
-<!---
-YuXushi/YuXushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
