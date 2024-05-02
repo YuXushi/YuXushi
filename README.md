@@ -2,7 +2,7 @@ Hello, i'm Xushi.
 I'm just some random person here.  
 Very beginner and average programmer, just joined :D  
 still in school, learning to become a game designer(?).  
-Currently learning C#, HTML and CSS.    
+Currently learning C#, HTML, CSS and a little bit of Draconic (Python Variation).    
 Nothing much to say about me, i guess?    
 I like reading WebNovels  
 ![WebNovelicon](https://github.com/YuXushi/YuXushi/assets/150656566/d56daab1-26b2-4df5-a86a-334b25bcca47)  
