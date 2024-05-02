@@ -1,5 +1,6 @@
 Hello, i'm Xushi.  
-I'm just some random person here.  
+I'm in the ![Pizza Eating](https://cdn.discordapp.com/emojis/1193618658723897364.gif?size=48&quality=lossless&name=eat) country.  
+I'm just some random person who somehow ended here.  
 Very beginner and average programmer, just joined :D  
 still in school, learning to become a game designer(?).  
 Currently learning C#, HTML, CSS and a little bit of Draconic (Python Variation).    
